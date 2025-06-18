@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Nini Dai"
 date: "2025-06-15"
 categories: [news]
 ---
